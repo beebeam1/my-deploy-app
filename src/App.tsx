@@ -24,7 +24,8 @@ function App() {
     >
       <h1>홍길동의 포트폴리오</h1>
       <p>프론트엔드 개발을 배우고 있습니다.</p>
-      <p>netlify 시험중</p>
+      <p>n</p>
+      <p>깃그래프 시험중</p>
       <h2>기술 스택</h2>
       <div>
         {skills.map((skill) => (
